@@ -7,6 +7,7 @@ In russian:
 Расписание берется из Яндекс АПИ.
 
 В конфиге задается:
+
 <--in minutes, time to get nearest departure station or railway--> - время, сколько нужно, чтобы дойти до ближайшей станции;
 
 <--in minutes, period before depare and timeToGetDepStation--> - сколько времени до момента выхода надо оповещать;
