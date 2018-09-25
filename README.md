@@ -8,8 +8,11 @@ In russian:
 
 В конфиге задается:
 <--in minutes, time to get nearest departure station or railway--> - время, сколько нужно, чтобы дойти до ближайшей станции;
+
 <--in minutes, period before depare and timeToGetDepStation--> - сколько времени до момента выхода надо оповещать;
+
 <--in minutes, create notification every ... --> - с какой частотой оповещать.
+
 
 Живет в трее. 
 Пока там не выбран не один поезд - отображает просто список ближайших.
