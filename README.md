@@ -1,5 +1,5 @@
 # MYT
-MyYandexTrains (яндекс расписание в трее windows)
+MyYandexTrains (яндекс расписание электричек в трее windows)
 
 In russian:
 
