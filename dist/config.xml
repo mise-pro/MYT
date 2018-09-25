@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<yaAPIkey>ENTER YOUR KEY HERE</yaAPIkey>
+	<timeToGetDepStation>12</timeToGetDepStation>
+	<!--in minutes, time to get nearest departure station or railway-->
+	<notifyPeriodBeforeSelectedTrain>16</notifyPeriodBeforeSelectedTrain>
+	<!--in minutes, period before depare and timeToGetDepStation-->
+	<notifyIntervalBeforeSelectedTrain>5</notifyIntervalBeforeSelectedTrain>
+	<!--in minutes, create notification every ... -->
+	<countTrainsToShowInMenu>8</countTrainsToShowInMenu>
+	<taxiInfo>Insert you PLAN B contacts</taxiInfo>
+	<debugMode>true</debugMode>
+	<route>
+		<from>s9600821</from>
+		<!--get codes of station from here https://rasp.yandex.ru/thread/6273_2_9601681_g16_4?tt=suburban&station_from=2000006&departure=2016-05-25&station_to=9601338&point_from=s2000006&point_to=s9601338-->
+		<to>s9601338</to>
+		<priority>1</priority>
+		<!--all priorities should be unique and be numbers-->
+		<color>190,247,223</color>
+	</route>
+	<route>
+		<from>s9600821</from>
+		<to>c10743</to>
+		<priority>2</priority>
+		<color>243,247,190</color>
+	</route>
+</config>		
