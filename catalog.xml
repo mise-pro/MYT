@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/mike/Desktop/search.xml" uri="xml-resources/jaxb/xmler/search.xml"/>
+    <system systemId="https://api.rasp.yandex.net/v1.0/search/?apikey=e7185469-9aa8-4fae-81d0-ca732dacce5d&amp;format=xml&amp;from=s2000009&amp;to=c10743&amp;lang=ru&amp;date=2016-04-14&amp;transport_types=suburban" uri="xml-resources/jaxb/xmler/api.rasp.yandex.net/v1.0/search/.apikey_e7185469-9aa8-4fae-81d0-ca732dacce5d_format_xml_from_s2000009_to_c10743_lang_ru_date_2016-04-14_transport_types_suburban.xml"/>
+    <system systemId="file:/C:/Users/mike/Desktop/ya.xsd" uri="xml-resources/jaxb/test/ya.xsd"/>
+    <system systemId="file:/G:/Dropbox/src/MYT/ya.xsd" uri="xml-resources/jaxb/ya_client/ya.xsd"/>
+</catalog>

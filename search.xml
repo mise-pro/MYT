@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <search>
+    <to>
+      <code>c10743</code>
+      <type>settlement</type>
+      <title>Одинцово</title>
+      <short_title>Одинцово</short_title>
+      <popular_title>Одинцово</popular_title>
+    </to>
+    <date>2016-04-14</date>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+  </search>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>везде</stops>
+    <thread>
+      <uid>6297_3_2000009_g16_4</uid>
+      <title>Москва (Савёловский вокзал) - Голицыно</title>
+      <number>6297</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>М-Савёловская - Голицыно</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 05:23:00</arrival>
+    <duration>2340.0</duration>
+    <departure>2016-04-14 04:44:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>кроме: Немчиновка, Трёхгорка</stops>
+    <thread>
+      <uid>6201_0_9600781_g16_4</uid>
+      <title>Лобня - Кубинка 1</title>
+      <number>6201</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Лобня - Кубинка 1</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 05:37:00</arrival>
+    <duration>2220.0</duration>
+    <departure>2016-04-14 05:00:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>везде</stops>
+    <thread>
+      <uid>6203_2_9600781_g16_4</uid>
+      <title>Лобня - Одинцово</title>
+      <number>6203</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Лобня - Одинцово</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 05:49:00</arrival>
+    <duration>2400.0</duration>
+    <departure>2016-04-14 05:09:00</departure>
+    <arrival_platform>2 платф</arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>везде</stops>
+    <thread>
+      <uid>6205_1_9600781_g16_4</uid>
+      <title>Лобня - Кубинка 1</title>
+      <number>6205</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Лобня - Кубинка 1</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 06:01:00</arrival>
+    <duration>2460.0</duration>
+    <departure>2016-04-14 05:20:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>кроме: Тестовская, Рабочий Посёлок, Трёхгорка</stops>
+    <thread>
+      <uid>6209_2_9600781_g16_4</uid>
+      <title>Лобня - Звенигород</title>
+      <number>6209</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Лобня - Звенигород</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 06:41:00</arrival>
+    <duration>2220.0</duration>
+    <departure>2016-04-14 06:04:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>кроме: Немчиновка, Баковка</stops>
+    <thread>
+      <uid>6211_0_9601681_g16_4</uid>
+      <title>Икша - Кубинка 1</title>
+      <number>6211</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Икша - Кубинка 1</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 06:50:00</arrival>
+    <duration>2280.0</duration>
+    <departure>2016-04-14 06:12:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>кроме: Тестовская, Рабочий Посёлок, Трёхгорка, Баковка</stops>
+    <thread>
+      <uid>6213_1_9600781_g16_4</uid>
+      <title>Лобня - Голицыно</title>
+      <number>6213</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Лобня - Голицыно</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 07:17:00</arrival>
+    <duration>1980.0</duration>
+    <departure>2016-04-14 06:44:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>везде</stops>
+    <thread>
+      <uid>6215_1_9600781_g16_4</uid>
+      <title>Лобня - Голицыно</title>
+      <number>6215</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Лобня - Голицыно</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 07:48:00</arrival>
+    <duration>3180.0</duration>
+    <departure>2016-04-14 06:55:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>кроме: Баковка</stops>
+    <thread>
+      <uid>6217_1_9601639_g16_4</uid>
+      <title>Дубна - Звенигород</title>
+      <number>6217</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Дубна - Звенигород</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 07:54:00</arrival>
+    <duration>2400.0</duration>
+    <departure>2016-04-14 07:14:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>кроме: Немчиновка, Трёхгорка</stops>
+    <thread>
+      <uid>6221_1_9601639_g16_4</uid>
+      <title>Дубна - Кубинка 1</title>
+      <number>6221</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Дубна - Кубинка 1</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 09:00:00</arrival>
+    <duration>2400.0</duration>
+    <departure>2016-04-14 08:20:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>кроме: Сетунь, Баковка</stops>
+    <thread>
+      <uid>6223_0_9600693_g16_4</uid>
+      <title>Вербилки - Звенигород</title>
+      <number>6223</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Вербилки - Звенигород</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 09:07:00</arrival>
+    <duration>2220.0</duration>
+    <departure>2016-04-14 08:30:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>кроме: Баковка</stops>
+    <thread>
+      <uid>6225_3_9600692_g16_4</uid>
+      <title>Дмитров - Звенигород</title>
+      <number>6225</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Дмитров - Звенигород</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 10:21:00</arrival>
+    <duration>3120.0</duration>
+    <departure>2016-04-14 09:29:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>кроме: Тестовская, Немчиновка, Трёхгорка, Баковка</stops>
+    <thread>
+      <uid>6227_2_9601681_g16_4</uid>
+      <title>Икша - Кубинка 1</title>
+      <number>6227</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Икша - Кубинка 1</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 10:50:00</arrival>
+    <duration>2220.0</duration>
+    <departure>2016-04-14 10:13:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>везде</stops>
+    <thread>
+      <uid>6229_3_9601681_g16_4</uid>
+      <title>Икша - Бородино</title>
+      <number>6229</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Икша - Бородино</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 11:08:00</arrival>
+    <duration>2580.0</duration>
+    <departure>2016-04-14 10:25:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>до Сетунь везде, далее Одинцово</stops>
+    <thread>
+      <uid>6235_4_9601681_g16_4</uid>
+      <title>Икша - Можайск</title>
+      <number>6235</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Икша - Можайск</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 14:56:00</arrival>
+    <duration>2520.0</duration>
+    <departure>2016-04-14 14:14:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>кроме: Тестовская, Немчиновка, Трёхгорка, Баковка</stops>
+    <thread>
+      <uid>6237_2_9600781_g16_4</uid>
+      <title>Лобня - Голицыно</title>
+      <number>6237</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Лобня - Голицыно</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 15:16:00</arrival>
+    <duration>1980.0</duration>
+    <departure>2016-04-14 14:43:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>кроме: Рабочий Посёлок</stops>
+    <thread>
+      <uid>6241_2_9600781_g16_4</uid>
+      <title>Лобня - Одинцово</title>
+      <number>6241</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Лобня - Одинцово</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 15:27:00</arrival>
+    <duration>2280.0</duration>
+    <departure>2016-04-14 14:49:00</departure>
+    <arrival_platform>2 платф</arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>кроме: Тестовская, Немчиновка, Баковка</stops>
+    <thread>
+      <uid>6243_1_9600781_g16_4</uid>
+      <title>Лобня - Кубинка 1</title>
+      <number>6243</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Лобня - Кубинка 1</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 16:27:00</arrival>
+    <duration>2520.0</duration>
+    <departure>2016-04-14 15:45:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>кроме: Тестовская</stops>
+    <thread>
+      <uid>6245_0_9600781_g16_4</uid>
+      <title>Лобня - Звенигород</title>
+      <number>6245</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Лобня - Звенигород</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 16:35:00</arrival>
+    <duration>2460.0</duration>
+    <departure>2016-04-14 15:54:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>кроме: Тестовская</stops>
+    <thread>
+      <uid>6247_1_9601681_g16_4</uid>
+      <title>Икша - Кубинка 1</title>
+      <number>6247</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Икша - Кубинка 1</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 16:54:00</arrival>
+    <duration>2340.0</duration>
+    <departure>2016-04-14 16:15:00</departure>
+    <arrival_platform>2 платф</arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>кроме: Немчиновка</stops>
+    <thread>
+      <uid>6251_2_9600781_g16_4</uid>
+      <title>Лобня - Голицыно</title>
+      <number>6251</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Лобня - Голицыно</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 17:57:00</arrival>
+    <duration>2400.0</duration>
+    <departure>2016-04-14 17:17:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>кроме: Немчиновка</stops>
+    <thread>
+      <uid>6255_0_9601681_g16_4</uid>
+      <title>Икша - Звенигород</title>
+      <number>6255</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Икша - Звенигород</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 18:06:00</arrival>
+    <duration>2400.0</duration>
+    <departure>2016-04-14 17:26:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>кроме: Тестовская</stops>
+    <thread>
+      <uid>6257_0_9600692_g16_4</uid>
+      <title>Дмитров - Одинцово</title>
+      <number>6257</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Дмитров - Одинцово</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 18:31:00</arrival>
+    <duration>2220.0</duration>
+    <departure>2016-04-14 17:54:00</departure>
+    <arrival_platform>2 платф</arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>везде</stops>
+    <thread>
+      <uid>6259_1_9601681_g16_4</uid>
+      <title>Икша - Звенигород</title>
+      <number>6259</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Икша - Звенигород</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 19:08:00</arrival>
+    <duration>2820.0</duration>
+    <departure>2016-04-14 18:21:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>везде</stops>
+    <thread>
+      <uid>6263_1_2000009_g16_4</uid>
+      <title>Москва (Савёловский вокзал) - Одинцово</title>
+      <number>6263</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>М-Савёловская - Одинцово</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 19:21:00</arrival>
+    <duration>2460.0</duration>
+    <departure>2016-04-14 18:40:00</departure>
+    <arrival_platform>2 платф</arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>везде</stops>
+    <thread>
+      <uid>6269_2_9601681_g16_4</uid>
+      <title>Икша - Одинцово</title>
+      <number>6269</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Икша - Одинцово</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 20:57:00</arrival>
+    <duration>2580.0</duration>
+    <departure>2016-04-14 20:14:00</departure>
+    <arrival_platform>2 платф</arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>кроме: Немчиновка</stops>
+    <thread>
+      <uid>6271_4_9600781_g16_4</uid>
+      <title>Лобня - Можайск</title>
+      <number>6271</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Лобня - Можайск</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 21:23:00</arrival>
+    <duration>3540.0</duration>
+    <departure>2016-04-14 20:24:00</departure>
+    <arrival_platform></arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <threads>
+    <to>
+      <code>s9600721</code>
+      <type>station</type>
+      <title>Одинцово</title>
+      <short_title></short_title>
+      <station_type>вокзал</station_type>
+      <popular_title></popular_title>
+      <transport_type>train</transport_type>
+    </to>
+    <from>
+      <code>s2000009</code>
+      <type>station</type>
+      <title>Москва (Савёловский вокзал)</title>
+      <short_title>М-Савёловская</short_title>
+      <station_type>вокзал</station_type>
+      <popular_title>Савёловский вокзал</popular_title>
+      <transport_type>train</transport_type>
+    </from>
+    <stops>кроме: Тестовская</stops>
+    <thread>
+      <uid>6273_2_9601681_g16_4</uid>
+      <title>Икша - Одинцово</title>
+      <number>6273</number>
+      <carrier>
+        <code>153</code>
+        <codes>
+          <iata></iata>
+          <icao></icao>
+          <sirena></sirena>
+        </codes>
+        <title>Центральная пригородная пассажирская компания</title>
+      </carrier>
+      <vehicle></vehicle>
+      <short_title>Икша - Одинцово</short_title>
+      <express_type></express_type>
+      <transport_type>suburban</transport_type>
+    </thread>
+    <arrival>2016-04-14 23:34:00</arrival>
+    <duration>2640.0</duration>
+    <departure>2016-04-14 22:50:00</departure>
+    <arrival_platform>2 платф</arrival_platform>
+    <arrival_terminal></arrival_terminal>
+    <departure_platform></departure_platform>
+    <departure_terminal></departure_terminal>
+  </threads>
+  <pagination>
+    <page>1</page>
+    <total>28</total>
+    <has_next>False</has_next>
+    <per_page>100</per_page>
+    <page_count>1</page_count>
+  </pagination>
+</response>
